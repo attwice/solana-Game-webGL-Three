@@ -1,0 +1,9 @@
+node_modules
+
+#godot
+godot/.import
+godot/export
+*.import
+
+#chain
+test-ledger
